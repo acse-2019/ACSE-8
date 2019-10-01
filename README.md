@@ -1,5 +1,5 @@
-# ACSE 2 (2019/20)
-# Modelling Dynamical Processes
+# ACSE 8 (2019/20)
+# Machine Learning
 
 ## Learning outcomes:
 
